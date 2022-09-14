@@ -1,2 +1,4 @@
-# learn-git
-learning how to use git
+# palindrome
+
+a word, phrase, or sequence that reads the same backwards as forwards, e.g. madam or nurses run.
+
